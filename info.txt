@@ -5,3 +5,5 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/tanvirabsar/practice_git.git
 git push -u origin main
+
+cheak user info and other info : git config -l (exit from this enter : wq)
